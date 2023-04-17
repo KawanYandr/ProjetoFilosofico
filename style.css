@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*  background-image: url('');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left center;
+    padding: 100px;*/
+
+main{
+    margin: auto;
+    width: 80vw;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+section p{
+    color: aliceblue;
+    width: 400px;
+    padding: 90px 5px;
+}
+
+article h2{
+    padding-top: 40px;
+}
+article p{
+    line-height: 40px;
+    font-size: 20px;
+    padding-bottom: 40px;
+    
+}
+
+
+
+
+section#Rene{
+    background-image: url('imagens_f/Rene\ \(2\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    padding: 90px 5px;
+}
+section#Rene p{
+    color: white;
+}
+section#Socrates{
+    background-image: url('imagens_f/Socrates.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left center;
+    padding: 90px 5px;
+}
+section#Platao{
+    background-image: url('imagens_f/Platao.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    padding: 90px 5px;
+}
+section#Aristoteles{
+    background-image: url('imagens_f/Aristoteles\ \(1\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    padding: 90px 5px;
+}
+section#Bruno_Luz{
+    background-image: url('imagens_f/Bruno_Luz1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    padding: 90px 5px;
+}
