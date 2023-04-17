@@ -11,7 +11,7 @@
 
 main{
     margin: auto;
-    width: 80vw;
+    width: 100vw;
 }
 header{
     background-color: black;
@@ -40,10 +40,10 @@ article p{
 
 section#Rene{
     background-image: url('imagens_f/Rene\ \(2\).png');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: center center;
     padding: 90px 5px;
 }
 section#Rene p{
@@ -51,33 +51,33 @@ section#Rene p{
 }
 section#Socrates{
     background-image: url('imagens_f/Socrates.png');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: left center;
+    background-position: center center;
     padding: 90px 5px;
 }
 section#Platao{
     background-image: url('imagens_f/Platao.png');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: center center;
     padding: 90px 5px;
 }
 section#Aristoteles{
     background-image: url('imagens_f/Aristoteles\ \(1\).png');
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: center center;
     padding: 90px 5px;
 }
 section#Bruno_Luz{
-    background-image: url('imagens_f/Bruno_Luz1.png');
-    background-size: contain;
+    background-image: url('imagens_f/Bruno_Luz1\ \(1\)\ \(1\)\ \(1\).png');
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: center center;
     padding: 90px 5px;
 }
