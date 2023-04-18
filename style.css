@@ -8,10 +8,12 @@
     background-attachment: fixed;
     background-position: left center;
     padding: 100px;*/
-
+body{
+    background-color: rgb(255, 247, 236);
+}
 main{
     margin: auto;
-    width: 100vw;
+    width: 90vw;
 }
 header{
     background-color: black;
@@ -19,14 +21,18 @@ header{
     text-align: center;
     padding: 30px;
 }
+section{
+    margin: 10px;
+}
 section p{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     width: 400px;
     padding: 90px 5px;
 }
 
 article h2{
-    padding-top: 40px;
+    padding: 40px 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 article p{
     line-height: 40px;
@@ -37,47 +43,66 @@ article p{
 
 
 
-
 section#Rene{
     background-image: url('imagens_f/Rene\ \(2\).png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding: 90px 5px;
 }
 section#Rene p{
-    color: white;
+    background-color: rgba(58, 58, 58, 0.171);
+    width: 250px;
 }
 section#Socrates{
     background-image: url('imagens_f/Socrates.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding: 90px 5px;
 }
+
+section#Socrates p{
+    background-color: rgba(58, 58, 58, 0.288);
+    width: 250px;
+}
+
 section#Platao{
-    background-image: url('imagens_f/Platao.png');
+    background-image: url('imagens_f/Platao\ \(1\)\ \(1\).png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding: 90px 5px;
 }
+section#Platao p{
+    background-color: rgba(58, 58, 58, 0.288);
+    width: 250px;
+}
+
 section#Aristoteles{
-    background-image: url('imagens_f/Aristoteles\ \(1\).png');
+    background-image: url('imagens_f/Aristoteles\ \(1\)\ \(1\)\ \(1\).png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding: 90px 5px;
+}
+section#Aristoteles p{
+    background-color: rgba(58, 58, 58, 0.288);
+    width: 250px;
 }
 section#Bruno_Luz{
-    background-image: url('imagens_f/Bruno_Luz1\ \(1\)\ \(1\)\ \(1\).png');
+    background-image: url('imagens_f/Bruno_Luz1\ \(2\)\ \(1\).png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding: 90px 5px;
+}
+section#Bruno_Luz p{
+    background-color: rgba(0, 0, 0, 0.055);
+    width: 250px;
 }
