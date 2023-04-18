@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Oswald:wght@600&family=Sriracha&display=swap');
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -9,7 +12,7 @@
     background-position: left center;
     padding: 100px;*/
 body{
-    background-color: rgb(255, 247, 236);
+    background-color: rgb(255, 255, 255);
 }
 main{
     margin: auto;
@@ -28,6 +31,8 @@ section p{
     color: rgb(255, 255, 255);
     width: 400px;
     padding: 90px 5px;
+    font-family: Sriracha;
+    font-size: 20px;
 }
 
 article h2{
@@ -54,7 +59,7 @@ section#Rene{
 }
 section#Rene p{
     background-color: rgba(58, 58, 58, 0.171);
-    width: 250px;
+    width: 300px;
 }
 section#Socrates{
     background-image: url('imagens_f/Socrates.png');
