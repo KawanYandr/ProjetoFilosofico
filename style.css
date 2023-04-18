@@ -13,7 +13,7 @@ body{
 }
 main{
     margin: auto;
-    width: 100vw;
+    width: 95vw;
 }
 header{
     background-color: black;
@@ -49,6 +49,7 @@ section#Rene{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    background-position-x: 80%;
     padding: 90px 5px;
 }
 section#Rene p{
@@ -61,6 +62,7 @@ section#Socrates{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    background-position-x: 80%;
     padding: 90px 5px;
 }
 
@@ -75,6 +77,7 @@ section#Platao{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    background-position-x: 80%;
     padding: 90px 5px;
 }
 section#Platao p{
@@ -88,6 +91,7 @@ section#Aristoteles{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+
     padding: 90px 5px;
 }
 section#Aristoteles p{
@@ -100,6 +104,7 @@ section#Bruno_Luz{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right center;
+    background-position-x: 90%;
     padding: 90px 5px;
 }
 section#Bruno_Luz p{
